@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/contact",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Visit | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 1191,
+      "bodyTextHash": "6d01e74c1ac67bdaba51f2affef99a5d67965fb877e2de477781f4f15d659cb1",
+      "bodyTextPrefix": "Skip to content Fun Valley RESORT Home Celebrations Gallery Enqu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contact.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Visit | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 1135,
+      "bodyTextHash": "03563847c926e935f9a3c38b26e434ba5bb883ff88bf271e30eec504b9fe41c4",
+      "bodyTextPrefix": "Skip to content Fun Valley VISIT Near Baagh Bagicha Farms, Secto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contact-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/contact.json"
+}

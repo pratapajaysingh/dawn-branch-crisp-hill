@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/events",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Celebrations | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 4103,
+      "bodyTextHash": "a3adb215843f4d3ddb9b40db4c9c1e9e0bbb126d800a206393d4cf2fbd1f9e48",
+      "bodyTextPrefix": "Skip to content Fun Valley RESORT Home Celebrations Gallery Enqu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/events.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Celebrations | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 4047,
+      "bodyTextHash": "bcae1dc0fb4a719801ae1cbb5e3632d5c02defcccff39ef057e7941b3fb57ac8",
+      "bodyTextPrefix": "Skip to content Fun Valley CELEBRATIONS Birthdays, pool nights, ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/events-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/events.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/enquire",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Enquire | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 1620,
+      "bodyTextHash": "b880de318396fd448cea99d5b497069bcd770ba6bc7bdccee6f53dbe92128dfe",
+      "bodyTextPrefix": "Skip to content Fun Valley RESORT Home Celebrations Gallery Enqu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/enquire.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Enquire | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 1564,
+      "bodyTextHash": "88ff932c638296ba99aef7c809b035291b6f496b40f00c37ca39efca0f5561d9",
+      "bodyTextPrefix": "Skip to content Fun Valley ENQUIRE Tell us the date. We’ll send ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/enquire-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/enquire.json"
+}

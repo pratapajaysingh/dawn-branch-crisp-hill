@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/gallery",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gallery | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 877,
+      "bodyTextHash": "c35d2288653f8dade67a88a16a84073ce821e94a5744d21ae99bf87fa0e7c3f3",
+      "bodyTextPrefix": "Skip to content Fun Valley RESORT Home Celebrations Gallery Enqu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/gallery.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gallery | Fun Valley Resort Noida",
+      "hasCanvas": false,
+      "bodyTextLen": 821,
+      "bodyTextHash": "8fca5c953ee4712b8685ed2d6cdfd81c69d015721be8ebb31eaa326642158724",
+      "bodyTextPrefix": "Skip to content Fun Valley GALLERY The pool, the lawn, the infla",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/gallery-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/gallery.json"
+}

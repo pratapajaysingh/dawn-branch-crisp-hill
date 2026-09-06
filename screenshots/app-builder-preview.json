@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fun Valley Resort Noida | Pool Parties, Weddings & Corporate Events",
+      "hasCanvas": false,
+      "bodyTextLen": 4501,
+      "bodyTextHash": "65cb4675435b0279e4d8f7f448e8d175e3cc3646f86110daea3733d9de87f5a4",
+      "bodyTextPrefix": "Skip to content Fun Valley RESORT Home Celebrations Gallery Enqu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fun Valley Resort Noida | Pool Parties, Weddings & Corporate Events",
+      "hasCanvas": false,
+      "bodyTextLen": 4445,
+      "bodyTextHash": "dcffc4a83d497e1b5760d329ec1613284c0b2368993b81026c8999a3ed4df5a7",
+      "bodyTextPrefix": "Skip to content Fun Valley SECTOR 135, NOIDA · EST. 2025 The poo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
